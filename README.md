@@ -12,26 +12,17 @@
 
 
 
-###  pic
 
-![](/pics/1.png)
 
 player movement use script from this repo:[Link](https://github.com/gamedev-at-ariel/06-3d-terrain-ai)
 
-Shoting script:  []()
+Shoting script:  [shotDontTalk.cs](https://github.com/Lba-universe/CreateWorldAndAddWeapon/blob/main/Assets/Script/shotDontTalk.cs)
 
-Switch gun:  
-
-
-use this script : TilemapCaveGenerator.cs
-[link here](https://github.com/Lba-universe/Extend-tilemap/blob/master/Assets/Scripts/4-generation/TilemapCaveGenerator.cs)
-
-CaveGenerator.cs
-[link here](https://github.com/Lba-universe/Extend-tilemap/blob/master/Assets/Scripts/4-generation/CaveGenerator.cs)
+Switch gun:  [FindGun.cs](https://github.com/Lba-universe/CreateWorldAndAddWeapon/blob/main/Assets/Script/FindGun.cs)
 
 
-EnemyTouch.cs
-[link here](https://github.com/Lba-universe/Extend-tilemap/blob/master/Assets/Scripts/3-enemies/EnemyTouch.cs)
+
+
 
 
 
