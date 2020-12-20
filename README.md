@@ -30,8 +30,8 @@ Switch gun:  [FindGun.cs](https://github.com/Lba-universe/CreateWorldAndAddWeapo
 ###
 ---
 
-![](/pics/2.png)
+![](/Assets/2.png)
 
-![](/pics/3.png)
+![](/Assets/3.png)
 
 
