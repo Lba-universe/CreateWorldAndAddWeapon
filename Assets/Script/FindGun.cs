@@ -16,7 +16,7 @@ public class FindGun : MonoBehaviour
     // Update is called once per frame
     private void OnTriggerStay(Collider other)
     {
-        if (other.tag == "Gun2")
+        if (other.tag == "Gun2" || other.tag == "Gun1")
         {
             
             temp = other.gameObject;
@@ -30,8 +30,10 @@ public class FindGun : MonoBehaviour
                 temp.transform.position = myGun.transform.position;
                 temp.transform.rotation = transform.rotation;
                 temp.transform.parent = transform;
-                Object.Instantiate(myGun, transform2.position, transform2.rotation.normalized);
-                DestroyObject(myGun,1f);
+                myGun.transform.parent = null;
+                myGun = temp;
+                
+                
 
             }
         }
