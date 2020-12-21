@@ -3,7 +3,7 @@
 
 ## use this guides [create world link ](https://github.com/gamedev-at-ariel/gamedev-5781/blob/master/09-unity-3d-terrain-ai/homework-1-scene-modeling.pdf)
 ## use this guides [player weapon link ](https://github.com/gamedev-at-ariel/gamedev-5781/blob/master/09-unity-3d-terrain-ai/homework-2-Player.pdf)
-
+### play the game [here](https://lba-universe.itch.io/3d-man)
 
 
 
